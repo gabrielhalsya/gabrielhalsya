@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gabrielhalsya
-- 👀 I’m interested in Laravel
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in .NET ecosystem
+- 🌱 I’m currently learning C#
 - 📫 How to reach me gabrielm1603@gmail.com
 
