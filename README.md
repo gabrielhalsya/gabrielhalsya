@@ -1,4 +1,5 @@
 # 💫 About Me:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielhalsya&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielhalsya" /> </p>
 🌱 I’m currently learning ASP.NET<br> 📫 How to reach me **gabrielm1603@gmail.comm** <br> ⚡ Fun fact i never eat rice <br>
 
 ## 🌐 Socials:
@@ -11,16 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gabrielhalsya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhalsya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=gabrielhalsya&icon=5&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
+## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gabrielhsd) 
 
   
